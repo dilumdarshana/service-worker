@@ -13,3 +13,5 @@
 - Only runs on https (unless localhost)
 - Can not access DOM
 
+## Additional resoureces
+- https://www.youtube.com/watch?v=1QFTfbDXJCI
